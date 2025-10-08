@@ -1,0 +1,132 @@
+================================================================================
+RELATÓRIO DE ANÁLISE CLIMÁTICA COMPLETA
+================================================================================
+
+Data de Geração: 08/10/2025 19:49:47
+Período Analisado: 01/01/2024 a 31/12/2024
+Total de Registros: 8,784
+
+================================================================================
+1. RESUMO EXECUTIVO
+================================================================================
+
+TEMPERATURA:
+  - Média: 27.88°C
+  - Mínima absoluta: 22.30°C
+  - Máxima absoluta: 37.10°C
+  - Amplitude térmica: 14.80°C
+
+PRECIPITAÇÃO:
+  - Total acumulado: 3184.20 mm
+  - Dias com chuva: 251
+  - Média diária: 8.70 mm
+  - Máximo horário: 57.00 mm
+
+UMIDADE RELATIVA:
+  - Média: 82.16%
+  - Mínima: 36.00%
+  - Máxima: 99.00%
+
+VENTO:
+  - Velocidade média: 1.26 m/s
+  - Velocidade máxima: 5.20 m/s
+
+
+================================================================================
+2. ANÁLISE MENSAL
+================================================================================
+
+
+JANEIRO:
+----------------------------------------
+  Temperatura média: 27.16°C
+  Precipitação total: 538.00 mm
+  Umidade média: 87.63%
+
+FEVEREIRO:
+----------------------------------------
+  Temperatura média: 26.88°C
+  Precipitação total: 379.00 mm
+  Umidade média: 87.98%
+
+MARÇO:
+----------------------------------------
+  Temperatura média: 27.16°C
+  Precipitação total: 540.80 mm
+  Umidade média: 88.88%
+
+ABRIL:
+----------------------------------------
+  Temperatura média: 27.24°C
+  Precipitação total: 462.80 mm
+  Umidade média: 89.03%
+
+MAIO:
+----------------------------------------
+  Temperatura média: 27.52°C
+  Precipitação total: 348.40 mm
+  Umidade média: 87.81%
+
+JUNHO:
+----------------------------------------
+  Temperatura média: 27.71°C
+  Precipitação total: 214.80 mm
+  Umidade média: 83.10%
+
+JULHO:
+----------------------------------------
+  Temperatura média: 28.43°C
+  Precipitação total: 44.60 mm
+  Umidade média: 76.02%
+
+AGOSTO:
+----------------------------------------
+  Temperatura média: 28.47°C
+  Precipitação total: 59.00 mm
+  Umidade média: 76.86%
+
+SETEMBRO:
+----------------------------------------
+  Temperatura média: 28.89°C
+  Precipitação total: 53.60 mm
+  Umidade média: 74.46%
+
+OUTUBRO:
+----------------------------------------
+  Temperatura média: 28.76°C
+  Precipitação total: 43.20 mm
+  Umidade média: 75.15%
+
+NOVEMBRO:
+----------------------------------------
+  Temperatura média: 28.94°C
+  Precipitação total: 94.80 mm
+  Umidade média: 73.78%
+
+DEZEMBRO:
+----------------------------------------
+  Temperatura média: 27.41°C
+  Precipitação total: 405.20 mm
+  Umidade média: 85.29%
+
+
+================================================================================
+3. OBSERVAÇÕES E CONCLUSÕES
+================================================================================
+
+Este relatório apresenta uma análise abrangente dos dados climáticos
+coletados pela estação meteorológica do INMET.
+
+Os gráficos e estatísticas detalhadas estão disponíveis na pasta 'output'.
+
+Arquivos gerados:
+  - estatisticas_descritivas.csv
+  - analise_mensal.csv
+  - matriz_correlacao.csv
+  - analise_temperatura.png
+  - analise_precipitacao.png
+  - analise_umidade_pressao.png
+  - analise_vento_radiacao.png
+  - matriz_correlacao.png
+
+================================================================================
