@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+seaborn
+statsmodels
+# opcional: para gerar relatório exploratório (instale se desejar)
+# pandas-profiling
