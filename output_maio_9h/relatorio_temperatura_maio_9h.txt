@@ -1,0 +1,22 @@
+============================================================
+RELATÓRIO: Análise de Temperatura - Maio 9h-10h
+============================================================
+Total de registros: 31
+Período: 2024-05-01 09:00:00 a 2024-05-31 09:00:00
+Variável analisada: temperatura_do_ar_bulbo_seco_horaria_c
+
+ESTATÍSTICAS DE TEMPERATURA:
+  Média: 24.97 °C
+  Mínima: 24.10 °C
+  Máxima: 25.90 °C
+  Desvio padrão: 0.44 °C
+  Variação total: 1.80 °C
+
+ANÁLISE DE VARIAÇÕES:
+  Variação média: -0.0033 °C
+  Variação abs média: 0.4900 °C
+  Maior aumento: 1.8000 °C
+  Maior queda: -1.4000 °C
+
+Arquivos gerados em ./output_maio_9h/
+============================================================
